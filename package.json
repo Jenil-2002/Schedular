@@ -1,0 +1,67 @@
+{
+  "name": "scheduler-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@fontsource-variable/montserrat": "^5.0.19",
+    "@fontsource/inter": "^5.0.20",
+    "@fontsource/montserrat": "^5.0.18",
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@fullcalendar/core": "^6.0.0",
+    "@fullcalendar/daygrid": "^6.0.0",
+    "@fullcalendar/interaction": "^6.0.0",
+    "@fullcalendar/react": "^6.0.0",
+    "@fullcalendar/resource": "^6.0.0",
+    "@fullcalendar/resource-timeline": "^6.0.0",
+    "@fullcalendar/timegrid": "^6.0.0",
+    "@popperjs/core": "^2.11.8",
+    "axios": "^1.7.3",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "bootstrap-select": "^1.13.18",
+    "date-fns": "^3.6.0",
+    "jquery": "^3.7.1",
+    "jquery-ui": "^1.13.3",
+    "jquery-ui-dist": "^1.13.3",
+    "moment": "^2.30.1",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.4",
+    "react-bootstrap-select": "^0.14.0",
+    "react-datepicker": "^7.3.0",
+    "react-dom": "^18.3.1",
+    "react-is": "^18.3.1",
+    "react-router-dom": "^6.26.0",
+    "react-scripts": "5.0.0",
+    "react-select": "^5.8.0",
+    "react-toastify": "^10.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.10"
+  }
+}
